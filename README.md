@@ -24,21 +24,21 @@
 <div align="center">
   <p><em>Visualizing the flow of code, contributions, and impact.</em></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafhy-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&fire=FF4500&ring=33F7FF" height="180" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafhy-Khan&theme=tokyonight&hide_border=true&background=00000000&fire=FF4500&ring=33F7FF" height="180" alt="streak graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafhy-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafhy-Khan&theme=tokyonight" width="80%" />
 </div>
 
 ---
@@ -106,8 +106,8 @@
 
 <h3 align="center">📂 Top Repositories</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_BEST_REPO_NAME&theme=tokyonight&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_SECOND_BEST_REPO_NAME&theme=tokyonight&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Students-Grades-Tracker&theme=tokyonight&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Recusion-Program&theme=tokyonight&bg_color=0D1117" />
 </div>
 <br/>
 
