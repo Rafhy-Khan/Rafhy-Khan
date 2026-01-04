@@ -106,8 +106,8 @@
 
 <h3 align="center">📂 Top Repositories</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Students-Grades-Tracker&theme=tokyonight&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Recusion-Program&theme=tokyonight&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Students_grades_tracker&theme=tokyonight&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafhy-Khan&repo=Recursion-Program&theme=tokyonight&bg_color=0D1117" />
 </div>
 <br/>
 
