@@ -12,26 +12,26 @@
 
 <div align="center">
 
-### 🌟 *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* 
+###   *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* 
 **— Edsger W. Dijkstra**
 
 </div>
 
 ---
 
-## 👋 Welcome to My Learning Journey
+##  Welcome to My Learning Journey
 
 <img align="right" alt="AI Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Hello! I'm **Abdul Rafhy**, an undergraduate Artificial Intelligence student on a mission to understand intelligence from first principles. This GitHub profile is my **living laboratory** — a space that evolves with every concept I master, every line of code I write, and every problem I solve.
 
-### 🎯 What Defines Me
+###  What Defines Me
 
-- 🧠 **Deep understanding** beats surface-level knowledge
-- 🏗️ **Fundamentals matter** more than shortcuts  
-- ⏳ **Long-term thinking** creates real expertise
-- 📚 **Concept-first**, tool-second approach
-- 🔄 **Consistency** over motivation
+-  **Deep understanding** beats surface-level knowledge
+-  **Fundamentals matter** more than shortcuts  
+-  **Long-term thinking** creates real expertise
+-  **Concept-first**, tool-second approach
+-  **Consistency** over motivation
 
 <br clear="right"/>
 
@@ -39,7 +39,7 @@ Hello! I'm **Abdul Rafhy**, an undergraduate Artificial Intelligence student on 
 
 <div align="center">
 
-## 🚀 Current Focus & Learning Path
+##  Current Focus & Learning Path
 
 </div>
 
@@ -47,22 +47,22 @@ Hello! I'm **Abdul Rafhy**, an undergraduate Artificial Intelligence student on 
 <tr>
 <td width="50%" valign="top">
 
-### 📖 Academic Journey
+###  Academic Journey
 ```mermaid
 graph TD
-    A[🎓 AI Student] --> B[Programming Fundamentals]
+    A[ AI Student] --> B[Programming Fundamentals]
     B --> C[C++ Logic & Algorithms]
     B --> D[Python AI Foundations]
     B --> E[Web Tech Basics]
     C --> F[Problem Solving Mastery]
     D --> F
-    F --> G[🎯 AI Researcher]
+    F --> G[ AI Researcher]
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Present State
+###  Present State
 - 🔹 Strengthening **programming & logical thinking**
 - 🔹 Mastering **C++** for recursion & problem-solving
 - 🔹 Building **Python** foundations for AI
@@ -78,24 +78,24 @@ graph TD
 
 <div align="center">
 
-### 💡 *"Artificial intelligence is the new electricity."* 
+###  *"Artificial intelligence is the new electricity."* 
 **— Andrew Ng**
 
 </div>
 
 ---
 
-## 💻 Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
-### 🛠️ Programming Languages
+###  Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github&theme=dark" />
 
 <br><br>
 
-### 📊 Skill Levels
+###  Skill Levels
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1a1a1a)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
@@ -103,7 +103,7 @@ graph TD
 ![CSS](https://img.shields.io/badge/CSS-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
 
-### 🧠 AI & Conceptual Knowledge
+###  AI & Conceptual Knowledge
 
 ![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-Learning-FF6F00?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
 ![Logical Reasoning](https://img.shields.io/badge/Logical_Reasoning-Developing-00BCD4?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
@@ -116,7 +116,7 @@ graph TD
 
 <div align="center">
 
-## 📊 GitHub Statistics & Contributions
+##  GitHub Statistics & Contributions
 
 </div>
 
@@ -165,7 +165,7 @@ graph TD
 
 ---
 
-## 🏆 Featured Repositories
+##  Featured Repositories
 
 <div align="center">
 
@@ -184,7 +184,7 @@ graph TD
 
 <div align="center">
 
-## 🎯 Vision & Philosophy
+##  Vision & Philosophy
 
 </div>
 
@@ -195,22 +195,22 @@ graph TD
 ### 🔭 Long-Term Vision
 
 **Become an AI Researcher** who:
-- 🧩 Understands intelligence from **first principles**
-- 📐 Focuses on **mathematics, logic, data & ethics**
-- 🏗️ Builds **systems**, not just applications
-- 🌱 Takes a **foundation-first** approach
-- ⏰ Thinks **long-term**, acts consistently
+-  Understands intelligence from **first principles**
+-  Focuses on **mathematics, logic, data & ethics**
+-  Builds **systems**, not just applications
+-  Takes a **foundation-first** approach
+-  Thinks **long-term**, acts consistently
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Learning Philosophy
+###  Learning Philosophy
 
-- 📚 **Fundamentals** before complexity
-- 💡 **Clarity** before speed
-- 🎯 **Depth** before visibility
-- 🔄 **Consistency** over motivation
-- 🛠️ **Process** over outcomes
+-  **Fundamentals** before complexity
+-  **Clarity** before speed
+-  **Depth** before visibility
+-  **Consistency** over motivation
+-  **Process** over outcomes
 
 </td>
 </tr>
@@ -218,14 +218,14 @@ graph TD
 
 <div align="center">
 
-### ⚡ *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* 
+###  *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* 
 **— Alan Turing**
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -244,7 +244,7 @@ graph TD
 
 <div align="center">
 
-### 🌌 *"The science of today is the technology of tomorrow."* 
+###  *"The science of today is the technology of tomorrow."* 
 **— Edward Teller**
 
 
@@ -252,7 +252,7 @@ graph TD
 
 ---
 
-## 🌱 Values & Growth Mindset
+##  Values & Growth Mindset
 
 <div align="center">
 
@@ -269,17 +269,17 @@ graph TD
 
 ---
 
-## 🤝 Open to Collaboration & Mentorship
+##  Open to Collaboration & Mentorship
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> **I'm actively seeking:**
 
-- 💡 **Mentorship** from experienced AI practitioners
-- 🤝 **Meaningful collaborations** on AI/ML projects  
-- 📖 **Learning partnerships** for growth
-- 🎯 **Feedback** on my code and approach
-- 🌐 **Open-source contributions** opportunities
+-  **Mentorship** from experienced AI practitioners
+-  **Meaningful collaborations** on AI/ML projects  
+-  **Learning partnerships** for growth
+-  **Feedback** on my code and approach
+-  **Open-source contributions** opportunities
 
 ### I believe in **learning in public** and **building together**
 
@@ -289,18 +289,18 @@ graph TD
 
 <div align="center">
 
-### 🧠 *"Machine intelligence is the last invention that humanity will ever need to make."* 
+###  *"Machine intelligence is the last invention that humanity will ever need to make."* 
 **— Nick Bostrom**
 
 </div>
 
 ---
 
-## 💌 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
-### 📫 Reach Out
+###  Reach Out
 
 <a href="mailto:abdulrafhy852@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -312,17 +312,17 @@ graph TD
 
 <br><br>
 
-**📧 Email:** abdulrafhy852@gmail.com 
-**👨‍💻 GitHub:** [github.com/Rafhy-Khan](https://github.com/Rafhy-Khan)
+** Email:** abdulrafhy852@gmail.com 
+** GitHub:** [github.com/Rafhy-Khan](https://github.com/Rafhy-Khan)
 
 ---
 
-### ✨ *An AI student deliberately building strong foundations to grow into an AI researcher through deep learning and long-term thinking.*
+###  *An AI student deliberately building strong foundations to grow into an AI researcher through deep learning and long-term thinking.*
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" width="100%" />
 
-<sub>Last Updated: 2025 | Built with 💙 and dedication</sub>
+<sub>Last Updated: 2025 | Built with  and dedication</sub>
 
 </div>
