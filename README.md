@@ -123,10 +123,10 @@ graph TD
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rafhy-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=00D9FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rafhy-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <!-- Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafhy-Khan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&dates=8B949E&sideNums=00D9FF" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Rafhy-Khan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00D9FF&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
@@ -138,7 +138,7 @@ graph TD
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhy-Khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 <!-- Activity Graph -->
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafhy-Khan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafhy-Khan&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
 
@@ -236,7 +236,7 @@ graph TD
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafhy-Khan/Rafhy-Khan/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+*Note: To enable the snake animation, add the [Platane/snk Action](https://github.com/Platane/snk) to your profile repository.*
 
 </div>
 
@@ -311,7 +311,7 @@ graph TD
 
 <br><br>
 
-**📧 Email:** abdulrafhy852@gmail.com
+**📧 Email:** abdulrafhy852@gmail.com 
 **👨‍💻 GitHub:** [github.com/Rafhy-Khan](https://github.com/Rafhy-Khan)
 
 ---
