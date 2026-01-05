@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Abdul%20Rafhy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Artificial%20Intelligence%20Student%20%7C%20Aspiring%20AI%20Researcher&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=250&section=header&text=Abdul%20Rafhy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Artificial%20Intelligence%20Student%20%7C%20Aspiring%20AI%20Researcher&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Strong+Foundations+in+AI;From+First+Principles+to+Research;Deep+Learning+%7C+Long-Term+Thinking" alt="Typing SVG" /></a>
@@ -237,42 +237,7 @@ graph TD
 </picture>
 
 
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 ---
@@ -281,6 +246,7 @@ jobs:
 
 ### 🌌 *"The science of today is the technology of tomorrow."* 
 **— Edward Teller**
+
 
 </div>
 
