@@ -47,7 +47,7 @@
 
 Welcome to my **digital learning space**!   
 
-I'm **Abdul Rafhy**, and this isn't just another GitHub profile—it's a **living testament** to my journey in Artificial Intelligence. Every commit, every project, every line of code tells a story of growth, curiosity, and dedication.
+I'm **Abdul Rafhy**, and this isn't just another GitHub profile — it's a **living testament** to my journey in Artificial Intelligence. Every commit, every project, every line of code tells a story of growth, curiosity, and dedication.
 
  **What you'll find here:**
 -  Projects built with **passion & purpose**
@@ -362,7 +362,7 @@ Professional Git & GitHub
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 **Long-Term Vision**
+###  **Long-Term Vision**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
