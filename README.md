@@ -10,7 +10,7 @@
 
 <!-- Multi-line Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=🤖+Artificial+Intelligence+Student;🎯+Aspiring+AI+Researcher;💡+Building+from+First+Principles;🚀+Deep+Learning+%7C+Long-Term+Vision;🧠+Logic+%2B+Mathematics+%2B+Ethics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=+Artificial+Intelligence+Student;+Aspiring+AI+Researcher;+Building+from+First+Principles;+Deep+Learning+%7C+Long-Term+Vision;+Logic+%2B+Mathematics+%2B+Ethics" alt="Typing SVG" />
 </p>
 
 <!-- Animated Divider -->
@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- Welcome Message with Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=👋+Hello%2C+Welcome!;🌟+Glad+You're+Here!;🚀+Let's+Explore+Together!" alt="Welcome" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=+Hello%2C+Welcome!;+Glad+You're+Here!;+Let's+Explore+Together!" alt="Welcome" />
 
 <br>
 
@@ -41,19 +41,19 @@
 <tr>
 <td>
 
-### 🎯 **You've Discovered My AI Journey**
+###  **You've Discovered My AI Journey**
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Welcome to my **digital learning space**! 👋  
+Welcome to my **digital learning space**!   
 
 I'm **Abdul Rafhy**, and this isn't just another GitHub profile—it's a **living testament** to my journey in Artificial Intelligence. Every commit, every project, every line of code tells a story of growth, curiosity, and dedication.
 
-✨ **What you'll find here:**
-- 🎓 Projects built with **passion & purpose**
-- 📚 A **learning-first** approach to AI
-- 🔬 **Research-oriented** mindset
-- 💪 Consistent growth over time
+ **What you'll find here:**
+-  Projects built with **passion & purpose**
+-  A **learning-first** approach to AI
+-  **Research-oriented** mindset
+-  Consistent growth over time
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ I'm **Abdul Rafhy**, and this isn't just another GitHub profile—it's a **livin
 
 <div align="center">
 
-### 💫 *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+###  *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
 **— Edsger W. Dijkstra**
 
 </div>
@@ -76,7 +76,7 @@ I'm **Abdul Rafhy**, and this isn't just another GitHub profile—it's a **livin
 
 ---
 
-## 🎭 Who I Am
+##  Who I Am
 
 <div align="center">
 
@@ -86,7 +86,7 @@ I'm **Abdul Rafhy**, and this isn't just another GitHub profile—it's a **livin
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
 
-### 🎯 **My Core Beliefs**
+###  **My Core Beliefs**
 
 ```python
 class AbdulRafhy:
@@ -110,19 +110,19 @@ class AbdulRafhy:
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
-### 🌱 **What Defines Me**
+###  **What Defines Me**
 
-🧠 **Deep understanding** beats surface-level knowledge
+ **Deep understanding** beats surface-level knowledge
 
-🏗️ **Fundamentals** matter more than shortcuts
+ **Fundamentals** matter more than shortcuts
 
-⏳ **Long-term thinking** creates real expertise
+ **Long-term thinking** creates real expertise
 
-📚 **Concept-first**, tool-second approach
+ **Concept-first**, tool-second approach
 
-🔄 **Consistency** over motivation
+ **Consistency** over motivation
 
-🎯 **Process** over outcomes
+ **Process** over outcomes
 
 </td>
 </tr>
@@ -136,9 +136,9 @@ class AbdulRafhy:
 
 <div align="center">
 
-## 🚀 My Current Learning Path
+##  My Current Learning Path
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Strong+Foundations+⚡;Mastering+Logic+%26+Algorithms+🧩;Growing+into+AI+Research+🎯" alt="Learning Path" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+Strong+Foundations+;Mastering+Logic+%26+Algorithms+;Growing+into+AI+Research+" alt="Learning Path" />
 
 </div>
 
@@ -148,17 +148,17 @@ class AbdulRafhy:
 <tr>
 <td width="50%" valign="top">
 
-### 📖 **Academic Journey**
+###  **Academic Journey**
 
 ```mermaid
 graph TD
-    A[🎓 AI Student] --> B[Programming Fundamentals]
+    A[ AI Student] --> B[Programming Fundamentals]
     B --> C[C++ Logic & Algorithms]
     B --> D[Python AI Foundations]
     B --> E[Web Tech Basics]
     C --> F[Problem Solving Mastery]
     D --> F
-    F --> G[🎯 AI Researcher]
+    F --> G[ AI Researcher]
     style A fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
     style G fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
     style F fill:#FFD93D,stroke:#fff,stroke-width:2px,color:#000
@@ -167,7 +167,7 @@ graph TD
 </td>
 <td width="50%" valign="top">
 
-### 🎯 **Present Focus**
+###  **Present Focus**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> **Programming & Logic**  
 Strengthening core programming skills
@@ -194,7 +194,7 @@ Professional Git & GitHub
 
 <div align="center">
 
-### 💡 *"Artificial intelligence is the new electricity."*
+###  *"Artificial intelligence is the new electricity."*
 **— Andrew Ng**
 
 </div>
@@ -205,9 +205,9 @@ Professional Git & GitHub
 
 <div align="center">
 
-## 💻 Tech Stack & Arsenal
+##  Tech Stack & Arsenal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Languages+%26+Tools+💪;Growing+Every+Day+🌱;Learning+in+Public+🚀" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Languages+%26+Tools+;Growing+Every+Day+;Learning+in+Public+" alt="Tech Stack" />
 
 </div>
 
@@ -250,7 +250,7 @@ Professional Git & GitHub
 </tr>
 </table>
 
-### 🧠 **AI & Conceptual Knowledge**
+###  **AI & Conceptual Knowledge**
 
 ![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![Logical Reasoning](https://img.shields.io/badge/Logical_Reasoning-Developing-00BCD4?style=for-the-badge&logo=thealgorithms&logoColor=white)
@@ -265,9 +265,9 @@ Professional Git & GitHub
 
 <div align="center">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=My+Coding+Journey+📈;Data+Tells+Stories+📊;Consistency+is+Key+🔑" alt="Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=My+Coding+Journey+;Data+Tells+Stories+;Consistency+is+Key+" alt="Analytics" />
 
 </div>
 
@@ -313,7 +313,7 @@ Professional Git & GitHub
 
 <div align="center">
 
-### 🎓 *"In God we trust. All others must bring data."*
+###  *"In God we trust. All others must bring data."*
 **— W. Edwards Deming**
 
 </div>
@@ -324,9 +324,9 @@ Professional Git & GitHub
 
 <div align="center">
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=My+Best+Work+🚀;Building+in+Public+🏗️;Every+Project+is+a+Lesson+📚" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=My+Best+Work+;Building+in+Public+;Every+Project+is+a+Lesson+" alt="Projects" />
 
 </div>
 
@@ -354,7 +354,7 @@ Professional Git & GitHub
 
 <div align="center">
 
-## 🎯 Vision & Philosophy
+##  Vision & Philosophy
 
 </div>
 
@@ -368,38 +368,38 @@ Professional Git & GitHub
 
 **Become an AI Researcher** who:
 
-🧩 Understands intelligence from **first principles**
+ Understands intelligence from **first principles**
 
-📐 Focuses on **mathematics, logic, data & ethics**
+ Focuses on **mathematics, logic, data & ethics**
 
-🏗️ Builds **systems**, not just applications
+ Builds **systems**, not just applications
 
-🌱 Takes a **foundation-first** approach
+ Takes a **foundation-first** approach
 
-⏰ Thinks **long-term**, acts consistently
+ Thinks **long-term**, acts consistently
 
-🔬 Contributes to advancing AI understanding
+ Contributes to advancing AI understanding
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 **Learning Philosophy**
+###  **Learning Philosophy**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 
 My principles for growth:
 
-📚 **Fundamentals** before complexity
+ **Fundamentals** before complexity
 
-💡 **Clarity** before speed
+ **Clarity** before speed
 
-🎯 **Depth** before visibility
+ **Depth** before visibility
 
-🔄 **Consistency** over motivation
+ **Consistency** over motivation
 
-🛠️ **Process** over outcomes
+ **Process** over outcomes
 
-🌱 **Growth** over perfection
+ **Growth** over perfection
 
 </td>
 </tr>
@@ -407,7 +407,7 @@ My principles for growth:
 
 <div align="center">
 
-### ⚡ *"We can only see a short distance ahead, but we can see plenty there that needs to be done."*
+###  *"We can only see a short distance ahead, but we can see plenty there that needs to be done."*
 **— Alan Turing**
 
 </div>
@@ -418,9 +418,9 @@ My principles for growth:
 
 <div align="center">
 
-## 📈 Contribution Snake
+##  Contribution Snake
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Watch+My+Progress+🐍;Every+Day+Counts+📆;Building+Habits+💪" alt="Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Watch+My+Progress+;Every+Day+Counts+;Building+Habits+" alt="Snake" />
 
 </div>
 
@@ -443,7 +443,7 @@ My principles for growth:
 
 <div align="center">
 
-### 🌌 *"The science of today is the technology of tomorrow."*
+###  *"The science of today is the technology of tomorrow."*
 **— Edward Teller**
 
 </div>
@@ -454,7 +454,7 @@ My principles for growth:
 
 <div align="center">
 
-## 🌱 Core Values
+##  Core Values
 
 </div>
 
@@ -501,9 +501,9 @@ My principles for growth:
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Open+to+Mentorship+🎓;Seeking+Collaboration+🤝;Let's+Build+Together+🚀" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Open+to+Mentorship+;Seeking+Collaboration+;Let's+Build+Together+" alt="Connect" />
 
 </div>
 
@@ -515,26 +515,26 @@ My principles for growth:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### **💡 I'm Seeking:**
+### ** I'm Seeking:**
 
-🎯 Mentorship from experienced AI practitioners  
-🤝 Meaningful collaborations on AI/ML projects  
-📖 Learning partnerships for mutual growth  
-💬 Feedback on code, approach & methodology  
-🌐 Open-source contribution opportunities
+ Mentorship from experienced AI practitioners  
+ Meaningful collaborations on AI/ML projects  
+ Learning partnerships for mutual growth  
+ Feedback on code, approach & methodology  
+ Open-source contribution opportunities
 
 </td>
 <td align="center" width="50%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 
-### **🌟 What I Offer:**
+### ** What I Offer:**
 
-🔥 Genuine passion for learning  
-💪 Strong work ethic & discipline  
-🧠 Critical thinking skills  
-📚 Research-oriented mindset  
-⚡ Willingness to go the extra mile
+ Genuine passion for learning  
+ Strong work ethic & discipline  
+ Critical thinking skills  
+ Research-oriented mindset  
+ Willingness to go the extra mile
 
 </td>
 </tr>
@@ -542,7 +542,7 @@ My principles for growth:
 
 <div align="center">
 
-### 🎯 **I believe in learning in public and building together!**
+###  **I believe in learning in public and building together!**
 
 </div>
 
@@ -552,7 +552,7 @@ My principles for growth:
 
 <div align="center">
 
-### 🧠 *"Machine intelligence is the last invention that humanity will ever need to make."*
+###  *"Machine intelligence is the last invention that humanity will ever need to make."*
 **— Nick Bostrom**
 
 </div>
@@ -563,9 +563,9 @@ My principles for growth:
 
 <div align="center">
 
-## 💌 Get in Touch
+##  Get in Touch
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Let's+Talk+AI+💬;Reach+Out+Anytime+📧;I'd+Love+to+Hear+From+You+🌟" alt="Contact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Let's+Talk+AI+;Reach+Out+Anytime+;I'd+Love+to+Hear+From+You+" alt="Contact" />
 
 </div>
 
@@ -618,7 +618,7 @@ My principles for growth:
 <div align="center">
 
 <!-- Final Quote & Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=An+AI+student+building+strong+foundations;Growing+into+an+AI+researcher;Through+deep+learning+and+long-term+thinking+✨" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=An+AI+student+building+strong+foundations;Growing+into+an+AI+researcher;Through+deep+learning+and+long-term+thinking+" alt="Signature" />
 
 <br>
 
@@ -626,11 +626,11 @@ My principles for growth:
 
 <br>
 
-**Thanks for visiting! 🌟 Let's shape the future of AI together! 🚀**
+**Thanks for visiting!  Let's shape the future of AI together! **
 
 <br>
 
-<sub>Last Updated: 2026 | Crafted with 💙, dedication & passion for AI</sub>
+<sub>Last Updated: 2026 | Crafted with , dedication & passion for AI</sub>
 
 <br><br>
 
